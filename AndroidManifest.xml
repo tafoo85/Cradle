@@ -5,7 +5,10 @@
       android:versionName="1.0">
     <uses-sdk android:minSdkVersion="10" />
 
-    <application android:icon="@drawable/icon" android:label="@string/app_name" android:debuggable="true">
+    <application android:icon="@drawable/icon" 
+    			 android:label="@string/app_name" 
+    			 android:debuggable="true"
+    			 android:theme="@style/cradle_theme">
         <activity android:name=".CradleActivity"
                   android:label="@string/app_name">
             <intent-filter>
@@ -13,6 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+        <activity android:name=".SettingsActivity" />
     </application>
 </manifest>

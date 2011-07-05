@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, CradleActivity!</string>
+    <string name="welcome_msg">Cradle: The Infant Monitoring Tool</string>
     <string name="app_name">Cradle</string>
+    <string name="settings_label">Settings</string>
+    <string name="exit_label">Quit</string>
+    <string name="help_label">Help</string>
 </resources>
