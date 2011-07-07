@@ -5,4 +5,9 @@
     <string name="settings_label">Settings</string>
     <string name="exit_label">Quit</string>
     <string name="help_label">Help</string>
+    <string name="welcome_text">
+    	This seems to be the first time you have run Cradle.
+    	Cradle is an inclusive infant monitoring tool.
+    	Functionality includes:
+    </string>
 </resources>
